@@ -1,0 +1,2 @@
+# spaaam
+spam bot
